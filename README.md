@@ -10,4 +10,4 @@ I am an IT student, interested in programming and web design development.
 
 # How to contact me:
 - [Vkontakte](https://vk.com/teoxxid)
-- [Gmail.Ru](mailto:tixomirovaekaterina123@gmail.com)
+- [Gmail](mailto:tixomirovaekaterina123@gmail.com)
