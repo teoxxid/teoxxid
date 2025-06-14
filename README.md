@@ -17,10 +17,8 @@
 - [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
 
 
-- **💻 Programming Languages**: 
-  - 🐍 [Python](https://www.python.org/)
-  - 💻 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  - ➕ [C++](https://isocpp.org/)
+## 📊 GitHub Stats
+![Ekaterina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoxxid&show_icons=true&theme=radical)
 
 ## 📬 How to contact me:
 - [Vkontakte](https://vk.com/teoxxid)
