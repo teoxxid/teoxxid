@@ -21,3 +21,4 @@
 
 ## 📬 How to contact me:
 - [Vkontakte](https://vk.com/teoxxid)
+- [Telegram](https://t.me/teoxxid)
