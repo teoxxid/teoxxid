@@ -16,5 +16,11 @@
 - [![C#](https://img.shields.io/badge/C%23-9.0-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
 
+
+- **💻 Programming Languages**: 
+  - 🐍 [Python](https://www.python.org/)
+  - 💻 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - ➕ [C++](https://isocpp.org/)
+
 ## 📬 How to contact me:
 - [Vkontakte](https://vk.com/teoxxid)
