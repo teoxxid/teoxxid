@@ -12,9 +12,9 @@
 - **Databases**: PostgreSQL
 
 ## 💻 Programming Languages: 
-  - [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)
-  - [![C#](https://img.shields.io/badge/C%23-9.0-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  - [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
+  - [![Python](https://www.python.org/static/community_logos/python-icon.png)](https://www.python.org/)
+  - [![C#](https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [![C++](https://isocpp.org/files/img/cpp_logo.png)](https://isocpp.org/)
 
 ## 📬 How to contact me:
 - [Vkontakte](https://vk.com/teoxxid)
