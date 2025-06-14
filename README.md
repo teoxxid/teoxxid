@@ -12,9 +12,9 @@
 - **Databases**: PostgreSQL
 
 **💻 Programming Languages**: 
-  - [![Python](https://cdn.simpleicons.org/python/3776AB/20)](https://www.python.org/)
-  - [![C#](https://cdn.simpleicons.org/csharp/239120/20)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  - [![C++](https://cdn.simpleicons.org/cplusplus/00599C/20)](https://isocpp.org/)
+  - [![Python](https://cdn.simpleicons.org/python/3776AB/5)](https://www.python.org/)
+  - [![C#](https://cdn.simpleicons.org/csharp/239120/5)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [![C++](https://cdn.simpleicons.org/cplusplus/00599C/5)](https://isocpp.org/)
 
 ## 📊 GitHub Stats
 ![Ekaterina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoxxid&show_icons=true&theme=radical)
