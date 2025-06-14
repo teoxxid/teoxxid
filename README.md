@@ -2,7 +2,7 @@
 
 I am an IT student, interested in programming and web design development.
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 - **Programming languages**: Python, C#, C++
 - **Framework and libraries**: NumPy
 - **Developers**: Git, Figma, VS Code, Planoplan
