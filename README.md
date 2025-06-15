@@ -16,10 +16,9 @@ I'm an enthusiastic IT student at Polar State University.
 - [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
 
 ## 🚀 What I'm Working On
-- Building interactive web applications with a focus on intuitive design.
+- Creating website and interior designs.
 - Creating data models using **ER diagrams** for efficient database structures.
 - Visualizing software architecture with **UML diagrams** to streamline development.
-- Experimenting with JavaScript to add dynamic features to my projects.
 
 ## 📊 GitHub Stats
 ![Ekaterina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoxxid&show_icons=true&theme=radical)
